@@ -2,3 +2,4 @@ test new
 performance
  cxz c
  z vf
+ zxcc
