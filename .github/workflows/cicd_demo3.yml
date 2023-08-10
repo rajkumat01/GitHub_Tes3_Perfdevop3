@@ -1,8 +1,6 @@
 name: cicd_demo3
     
-#on: push
-on:
-   workflow_dispatch:
+on: push
 
 
 jobs:
